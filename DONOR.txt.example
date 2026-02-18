@@ -1,0 +1,9 @@
+# Example format for DONOR.txt
+# Add your private keys here, one per line (without 0x prefix or with it)
+# 
+# Example:
+# 1234567890abcdef1234567890abcdef1234567890abcdef1234567890abcdef
+# 0xabcdef1234567890abcdef1234567890abcdef1234567890abcdef1234567890
+#
+# WARNING: Never commit DONOR.txt to git!
+# This file is included in .gitignore for your safety
